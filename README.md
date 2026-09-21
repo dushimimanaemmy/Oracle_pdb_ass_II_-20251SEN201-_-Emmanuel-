@@ -44,5 +44,6 @@ ALTER PLUGGABLE DATABSE Em-to-delete_pdb_20251SEN201 open;
 
 
 ### Task3: I tried to access Oracle Enterprise Manager (OEM) but not happen because OEM not agree my credentials container name not allow. 
-### OUTPUTS SHOW RESULTS:
+### OUTPUTS SHOW RESULTS open this link: 
+https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/76f675beebf964f73ef93d246d7911b2a5c4956a/Screenshots/TAsk3_OEM.png
 
