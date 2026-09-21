@@ -25,7 +25,7 @@ SHOW CON_NAME;
 ### Query that used to create Pluggable Database is
 CREATE PLUGGABLE DATABASE Em_pdb_20251SEN201 ADMIN USER Emmanuel_plsqlauca_20251SEN201 IDENTIFIES BY pass54325;
 ## OUTPUT FROM RUNNING QUERY IN TASK ONE
-
+https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/87e258b4f13ec5b1d5226a013bb88c628d2ca3a2/Screenshots/Ouput_Create_pdb.png 
 
 ### After create pdb from Exist pluggable database to new created pluggable database pdb I opened using this query:-
 ALTER SESSION SET CONTAINER=Em-20251SEN201;
