@@ -24,7 +24,7 @@
 SHOW CON_NAME;
 ### Query that used to create Pluggable Database is
 CREATE PLUGGABLE DATABASE Em_pdb_20251SEN201 ADMIN USER Emmanuel_plsqlauca_20251SEN201 IDENTIFIES BY pass54325;
-## OUTPUT FROM RUNNING QUERY IN TASK ONE
+## OUTPUT FROM RUNNING QUERY IN TASK ONE open this link
 https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/87e258b4f13ec5b1d5226a013bb88c628d2ca3a2/Screenshots/Ouput_Create_pdb.png 
 
 ### After create pdb from Exist pluggable database to new created pluggable database pdb I opened using this query:-
@@ -32,8 +32,8 @@ ALTER SESSION SET CONTAINER=Em-20251SEN201;
 ### then show container pdb name
 
 ### I was run a query that helped to open PDBS and show pdb.
-### output show how can open pdb after created and show it all it contain this image and their image
-
+### output show how can open pdb after created and show it all it contain this image and their image open this link.
+https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/e586e90e80cb8a3b926c278f50991a1d2944ea55/Screenshots/Task1_OpenPdb_output.png
 
 ### Task2: I Created temporary PDB using  below query
 CREATE PLUGGABLE DATABASE Em_to_delete_pdb_20251SEN201 ADMIN USER Emmanuel_plsqlauca_20251SEN201 BY IDENTIFIES Temp54325;
