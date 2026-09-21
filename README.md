@@ -39,7 +39,8 @@ https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/bl
 CREATE PLUGGABLE DATABASE Em_to_delete_pdb_20251SEN201 ADMIN USER Emmanuel_plsqlauca_20251SEN201 BY IDENTIFIES Temp54325;
 ### After to create PDB you need to make command haht help to open using this query such as..
 ALTER PLUGGABLE DATABSE Em-to-delete_pdb_20251SEN201 open;
-## Output shows above Query: https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/ebb44f77aa179b96544b42da5a76b5af67ae38bf/Screenshots/Task2_CreationCommand_verify.png
+## Output shows above Query:
+https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/ebb44f77aa179b96544b42da5a76b5af67ae38bf/Screenshots/Task2_CreationCommand_verify.png
 
 ### Then use command delete temporary PDB
 ### Output show all above task two and contain their image
@@ -50,4 +51,5 @@ https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/bl
 ### Task3: I tried to access Oracle Enterprise Manager (OEM) but not happen because OEM not agree my credentials container name not allow. 
 ### OUTPUTS SHOW RESULTS open this link: 
 https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/76f675beebf964f73ef93d246d7911b2a5c4956a/Screenshots/TAsk3_OEM.png
+### Therefore I complete my task/ assignment include task such as correct PDB names used (exact format), User created inside the PDB, Temporary PDB created and deleted and OEM dashboard screenshot included that  but I met the same challenge in task four I was tried to solve using my credential used in a project such as Username, password and container name but not success it shows me same error colled invalid container name. 
 
