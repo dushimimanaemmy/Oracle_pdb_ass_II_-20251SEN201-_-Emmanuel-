@@ -43,6 +43,7 @@ ALTER PLUGGABLE DATABSE Em-to-delete_pdb_20251SEN201 open;
 
 ### Then use command delete temporary PDB
 ### Output show all above task two and contain their image
+https://github.com/dushimimanaemmy/Oracle_pdb_ass_II_-20251SEN201-_-Emmanuel-/blob/main/Screenshots/Tak2_DeletePDB_verify.png?raw=true
 
 
 
